@@ -1,0 +1,23 @@
+{
+  "name": "juliane.albq",
+  "version": "1.0.0",
+  "description": "Juliane Albuquerque, It's me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianeAlbuquerque/juliane.albq.git"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Juliane Albuquerque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulianeAlbuquerque/juliane.albq/issues"
+  },
+  "homepage": "https://github.com/JulianeAlbuquerque/juliane.albq#readme"
+}
